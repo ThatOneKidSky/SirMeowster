@@ -29,3 +29,7 @@ But hey, if you wanna try it, just copy my code.
 # Usage
 My code can be freely adapted and used.
 Just give me a social point.
+
+# Files you need to make
+- Shoop.json in ./shoop
+- Horse.json in ./shoop
